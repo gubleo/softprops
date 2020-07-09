@@ -14,6 +14,7 @@
 
 * What you learn while building is always more important than what you build
 * Be humble
+* Don't give up the ship
 * Learn with others when you can
 * You are not the code you write
 * Joy is experiencing life with others, spark it
