@@ -8,9 +8,9 @@
   I'm on a curiosity voyage and these keys are my paddles 👨‍💻
 </p>
 
-I'm a slowgrammer.
+---
 
-Rules of the road
+## Rules of the road
 
 * What you learn while building is always more important than what you build
 * Learn with others when you can
@@ -20,4 +20,3 @@ Rules of the road
 * It's okay to color out side the lines
 * Don't let perfect be the enemy of good
 * It probably needs more tests...
-
