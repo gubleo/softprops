@@ -13,6 +13,7 @@
 ## Rules of the road
 
 * What you learn while building is always more important than what you build
+* Be humble
 * Learn with others when you can
 * You are not the code you write
 * Joy is experiencing life with others, spark it
