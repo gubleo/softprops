@@ -20,5 +20,6 @@
 * Joy is experiencing life with others, spark it
 * Code is not an asset, it's a liability
 * It's okay to color out side the lines
+* It's okay to come a purler
 * Don't let perfect be the enemy of good
 * It probably needs more tests...
